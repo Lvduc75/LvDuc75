@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viet Duc</h1>
-<h3 align="center">VietNamese</h3>
+<h3 align="center"></h3>
 <img style="display: block; margin-left: auto; margin-right: auto;" alt="Playing" width="400" src="https://gifdb.com/images/high/uwu-bongo-cat-playing-piano-f8wqnghsm54qnxrn.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
